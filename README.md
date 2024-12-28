@@ -15,3 +15,11 @@
 - For smooth flow (No backup data source use) - set "CurrencyPairs" in App.config as  <add key="CurrencyPairs" value="USD/ILS,USD/EUR,USD/GBP,USD/JPY" />
 - For fallback (using second data source) - set "CurrencyPairs" as requested in App.config as <add key="CurrencyPairs" value="USD/ILS,USD/EUR,GBP/EUR,EUR/JPY" />
 - To start Run SystemSimulator console.
+
+
+בחרתי ב-Database כי הרבה יותר קל לנהל את הדאטה מכמה בחינות.
+1) סכמה מסודרת ומנורמלת.
+2) הדאטה בייס מכיל יתרונות מבחיינת אופטימיזציות של יעילות וביצועים.
+3) רלציוני - קל להיתנהל איתו בעזרת שאילתות ופרוצדורות.
+4) מתאים יותר כאשר המערכת גודלת.
+5) שלמות המידע - עובד לפי טרנזקציות, כאשר טרנזקציה נכשחת באמצע יש לו אפשרות לחזור למצב הקודם לפני הטרנזקציה.
