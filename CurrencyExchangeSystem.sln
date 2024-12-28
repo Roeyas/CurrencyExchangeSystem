@@ -11,6 +11,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedUtils", "SharedUtils\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SystemSimulator", "SystemSimulator\SystemSimulator.csproj", "{92400C47-6892-4CFB-9715-984BED57C6C8}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{5BBA6212-3FAA-41D3-AC76-147D9749AE7A}"
+	ProjectSection(SolutionItems) = preProject
+		..\SetupDatabase.sql = ..\SetupDatabase.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
