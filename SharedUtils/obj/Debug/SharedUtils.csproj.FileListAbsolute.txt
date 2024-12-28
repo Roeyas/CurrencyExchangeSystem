@@ -1,0 +1,8 @@
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\bin\Debug\SharedUtils.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\bin\Debug\SharedUtils.pdb
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\obj\Debug\SharedUtils.csproj.CoreCompileInputs.cache
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\obj\Debug\SharedUtils.csproj.CopyComplete
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\obj\Debug\SharedUtils.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\SharedUtils\obj\Debug\SharedUtils.pdb

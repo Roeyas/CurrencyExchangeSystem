@@ -1,0 +1,14 @@
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\ProducerService.exe.config
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\ProducerService.exe
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\ProducerService.pdb
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\Newtonsoft.Json.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\SharedUtils.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\SharedUtils.pdb
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\Newtonsoft.Json.xml
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\obj\Debug\ProducerService.csproj.AssemblyReference.cache
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\obj\Debug\ProducerService.csproj.CoreCompileInputs.cache
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\obj\Debug\ProducerService.csproj.CopyComplete
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\obj\Debug\ProducerService.exe
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ProducerService\obj\Debug\ProducerService.pdb

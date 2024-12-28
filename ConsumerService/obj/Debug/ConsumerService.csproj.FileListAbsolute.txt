@@ -1,0 +1,12 @@
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\bin\Debug\ConsumerService.exe.config
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\bin\Debug\ConsumerService.exe
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\bin\Debug\ConsumerService.pdb
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\bin\Debug\SharedUtils.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\bin\Debug\SharedUtils.pdb
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\obj\Debug\ConsumerService.csproj.AssemblyReference.cache
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\obj\Debug\ConsumerService.csproj.CoreCompileInputs.cache
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\obj\Debug\ConsumerService.csproj.CopyComplete
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\obj\Debug\ConsumerService.exe
+D:\Roey\Backend-test-Okoora\CurrencyExchangeSystem\ConsumerService\obj\Debug\ConsumerService.pdb
