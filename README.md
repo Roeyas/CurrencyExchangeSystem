@@ -12,3 +12,4 @@
 # Flow
 - For smooth flow (No backup data source use) - set "CurrencyPairs" in App.config as  <add key="CurrencyPairs" value="USD/ILS,USD/EUR,USD/GBP,USD/JPY" />
 - For fallback (using second data source) - set "CurrencyPairs" as requested in App.config as <add key="CurrencyPairs" value="USD/ILS,USD/EUR,GBP/EUR,EUR/JPY" />
+- To start Run SystemSimulator console.
